@@ -24,6 +24,11 @@ const Navbar = () => {
                     <i className="fas fa-shopping-cart"></i>
                 </div>
             </div>
+
+            <div className="sign-content">
+                <h3>Sign in to continue</h3>
+                <p>Sign in or register with your e-mail address</p>
+            </div>
         </>
     )
 }
