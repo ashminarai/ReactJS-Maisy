@@ -3,6 +3,7 @@
     padding:0;
 }
 .navigation-content{
+    margin:20px;
     display:flex;
     height:60px;
     background-color: red;
@@ -16,4 +17,9 @@
     padding-left:30px;
     font-size:15px;
     border-color: black;
+}
+.fa-search{
+    margin-left:10px;
+    font-size:25px;
+    font-weight:300;
 }

@@ -17,7 +17,7 @@ const Navbar = () => {
                 </div>
 
                 <div className="content">
-                    <h4>Sign in</h4>
+                    <a href="#" className="signin" id="signin">Sign in</a>
                 </div>
 
                 <div className="content">
