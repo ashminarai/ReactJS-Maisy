@@ -31,6 +31,9 @@
     font-size:18px;
     color:rgb(72, 71, 71);
 }
+.signin:hover{
+    color:rgb(155, 148, 148);
+}
 .fa-shopping-cart{
     margin-left:40px;
     font-size:25px;
