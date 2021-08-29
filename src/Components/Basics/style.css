@@ -6,8 +6,10 @@
     margin:20px;
     display:flex;
     height:60px;
-    background-color: red;
     align-items:center;
+}
+.content h4{
+    margin-left:10px;
 }
 .search{
     margin-left:20px;
@@ -21,5 +23,16 @@
 .fa-search{
     margin-left:10px;
     font-size:25px;
-    font-weight:300;
+    font-weight:500;
+}
+.signin{
+    margin-left:30px;
+    text-decoration: none;
+    font-size:18px;
+    color:rgb(72, 71, 71);
+}
+.fa-shopping-cart{
+    margin-left:40px;
+    font-size:25px;
+    font-weight:500;
 }
