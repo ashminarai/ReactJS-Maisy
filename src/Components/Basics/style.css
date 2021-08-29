@@ -8,3 +8,12 @@
     background-color: red;
     align-items:center;
 }
+.search{
+    margin-left:20px;
+    height:40px;
+    border-radius:40px;
+    width:1050px;
+    padding-left:30px;
+    font-size:15px;
+    border-color: black;
+}
