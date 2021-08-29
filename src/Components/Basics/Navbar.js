@@ -10,15 +10,18 @@ const Navbar = () => {
                 </div>
 
                 <div className="content">
-                    <h4>Yamphu</h4>
+                    <input type="text" placeholder="Search for anything"></input>
+                </div>
+                <div className="content">
+                    <i className="fas fa-search"></i>
                 </div>
 
                 <div className="content">
-                    <h4>Yamphu</h4>
+                    <h4>Sign in</h4>
                 </div>
 
                 <div className="content">
-                    <h4>Yamphu</h4>
+                    <i className="fas fa-shopping-cart"></i>
                 </div>
             </div>
         </>
