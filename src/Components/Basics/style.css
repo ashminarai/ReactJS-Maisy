@@ -155,34 +155,33 @@ p{
 /* nav content css starts */
 .navcontent{
     margin-bottom:20px;
-    background-color:red;
-    margin-left:40px;
+    margin-left:30px;
     max-width:1370px;
 }
+
 .navcontent{
     display:flex;
 }
+a{
+    text-decoration:none;
+    color:black;
+    font-size:15px;
+}
 .clothing{
-    margin-left:110px;
-    font-weight:100px;
+    margin-left:100px;
 }
 .Home{
-    margin-left:110px;
-    font-weight:100;
+    margin-left:100px;
 }
 .Wedding{
-    margin-left:110px;
-    font-weight:100;
+    margin-left:100px;
 }
 .vintage{
-    margin-left:110px;
-    font-weight:100;
+    margin-left:100px;
 }
 .arts{
-    margin-left:110px;
-    font-weight:100;
+    margin-left:100px;
 }
 .instruments{
-    margin-left:110px;
-    font-weight:100;
+    margin-left:100px;
 }

@@ -12,7 +12,6 @@ const nav = () => {
                 <div className="clothing">
                     <a href="#">Clothing and Shoes</a>
                 </div>
-
                 <div className="Home">
                     <a href="#">Home and Living</a>
                 </div>
