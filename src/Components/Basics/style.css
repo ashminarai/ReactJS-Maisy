@@ -47,7 +47,6 @@
 /* Signin content css starts */
 .sign-content{
     background-color:rgb(223, 219, 214);
-    /* margin:5px; */
     height:700px;
     width:400px;
     margin-left:500px;
@@ -142,13 +141,48 @@ p{
     margin-left:10px;
 }
 .copyright{
-    margin-top:50px;
-    margin-left:100px;
+    margin-top:30px;
+    margin-left:110pxpx;
     font-weight:300;
 }
 .wrong{
-    margin-left:900px;
+    margin-left:410px;
     font-size:20px;
     opacity:0.3;
     cursor:pointer;
+}
+
+/* nav content css starts */
+.navcontent{
+    margin-bottom:20px;
+    background-color:red;
+    margin-left:40px;
+    max-width:1370px;
+}
+.navcontent{
+    display:flex;
+}
+.clothing{
+    margin-left:110px;
+    font-weight:100px;
+}
+.Home{
+    margin-left:110px;
+    font-weight:100;
+}
+.Wedding{
+    margin-left:110px;
+    font-weight:100;
+}
+.vintage{
+    margin-left:110px;
+    font-weight:100;
+}
+.arts{
+    margin-left:110px;
+    font-weight:100;
+}
+.instruments{
+    margin-left:110px;
+    font-weight:100;
 }

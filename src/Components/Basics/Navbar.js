@@ -25,11 +25,10 @@ const Navbar = () => {
                 </div>
             </div>
 
-            <div className="wrong">
-            <i class="far fa-times-circle"></i>
-            </div>
-
             <div className="sign-content">
+                <div className="wrong">
+                    <i class="far fa-times-circle"></i>
+                </div>
                 <h3 className="cont">Sign in to continue</h3>
                 <p>Sign in or register with your e-mail address</p>
                 <h6 className="email">E-mail address</h6>
@@ -49,7 +48,7 @@ const Navbar = () => {
                 </div>
                 <div className="google-content">
                     <div className="fas fa-google">
-                    <i class="fab fa-google"></i>
+                        <i class="fab fa-google"></i>
                     </div>
                     <div className="google">
                         <h5>Continue with Google</h5>
@@ -58,7 +57,7 @@ const Navbar = () => {
 
                 <div className="google-content">
                     <div className="fas fa-google">
-                    <i class="fab fa-facebook"></i>
+                        <i class="fab fa-facebook"></i>
                     </div>
                     <div className="facebook">
                         <h5>Continue with facebook</h5>
@@ -67,7 +66,7 @@ const Navbar = () => {
 
                 <div className="google-content">
                     <div className="fas fa-google">
-                    <i class="fab fa-apple"></i>
+                        <i class="fab fa-apple"></i>
                     </div>
                     <div className="apple">
                         <h5>Continue with apple</h5>
@@ -76,7 +75,7 @@ const Navbar = () => {
                 <h4 className="copyright">yamphuashmina&copy;2021</h4>
             </div>
 
-                
+
 
 
         </>
