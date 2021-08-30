@@ -28,7 +28,10 @@ const Navbar = () => {
             <div className="sign-content">
                 <h3>Sign in to continue</h3>
                 <p>Sign in or register with your e-mail address</p>
+                <h6 class="email">E-mail address</h6>
+                <input type="text" name="" className="emailbox"></input>
             </div>
+
         </>
     )
 }
