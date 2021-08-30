@@ -31,7 +31,49 @@ const Navbar = () => {
                 <h6 className="email">E-mail address</h6>
                 <input type="text" name="" className="emailbox"></input>
                 <h5 className="continue">Continue</h5>
+                <a href="#" className="trouble">Trouble signing in?</a>
+                <div className="hrcontent">
+                    <div className="hr1">
+                        <hr></hr>
+                    </div>
+                    <div className="hr">
+                        <h6>OR</h6>
+                    </div>
+                    <div className="hr2">
+                        <hr></hr>
+                    </div>
+                </div>
+                <div className="google-content">
+                    <div className="fas fa-google">
+                    <i class="fab fa-google"></i>
+                    </div>
+                    <div className="google">
+                        <h5>Continue with Google</h5>
+                    </div>
+                </div>
+
+                <div className="google-content">
+                    <div className="fas fa-google">
+                    <i class="fab fa-facebook"></i>
+                    </div>
+                    <div className="facebook">
+                        <h5>Continue with facebook</h5>
+                    </div>
+                </div>
+
+                <div className="google-content">
+                    <div className="fas fa-google">
+                    <i class="fab fa-apple"></i>
+                    </div>
+                    <div className="apple">
+                        <h5>Continue with apple</h5>
+                    </div>
+                </div>
+                <h4 className="copyright">yamphuashmina&copy;2021</h4>
             </div>
+
+                
+
 
         </>
     )
