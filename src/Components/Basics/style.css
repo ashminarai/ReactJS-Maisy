@@ -2,6 +2,9 @@
     margin:0;
     padding:0;
 }
+html,body{
+    
+}
 /* Navigation-content CSS starts */
 .navigation-content{
     margin:20px;
@@ -191,6 +194,45 @@ a{
 .image{
     margin-top:40px;
     height:400px;
-    width:1500px;
+    width:1440px;
     position:static;
+}
+
+/* info css starts */
+.profile{
+    margin-top:20px;
+    margin-left:20px;
+    height:150px;
+    border-radius:10px;
+}
+.info-content{
+    display:flex;
+}
+.info-tech{
+    margin-top:50px;
+    margin-left:30px;
+}
+.info-tech h6{
+    margin-top:10px;
+    font-size:15px;
+    font-weight:200;
+}
+.info-tech h2{
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 1px;;
+}
+.pro{
+    height:70px;
+    margin-top:50px;
+    border-radius: 50px;
+    margin-left:900px;
+}
+.ytext{
+    margin-left:910px;
+    font-size:15px;
+    font-weight: 200;
+}
+.ctext{
+    margin:10px;
+    margin-left:910px;
 }
