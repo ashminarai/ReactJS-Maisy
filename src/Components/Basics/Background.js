@@ -3,7 +3,7 @@ import React from 'react'
 const background = () => {
     return (
         <>
-            hvjkdscid
+            <img src="background.jpg"></img>
         </>
     )
 }
