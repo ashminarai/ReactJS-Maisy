@@ -46,12 +46,13 @@
 
 /* Signin content css starts */
 .sign-content{
-    background-color:blanchedalmond;
-    margin:5px;
+    background-color:rgb(223, 219, 214);
+    /* margin:5px; */
     height:700px;
     width:400px;
     margin-left:500px;
     border-radius: 30px;
+    display:none;
 }
 .sign-content h3{
     margin-left:10px;
@@ -144,4 +145,10 @@ p{
     margin-top:50px;
     margin-left:100px;
     font-weight:300;
+}
+.wrong{
+    margin-left:900px;
+    font-size:20px;
+    opacity:0.3;
+    cursor:pointer;
 }

@@ -25,6 +25,10 @@ const Navbar = () => {
                 </div>
             </div>
 
+            <div className="wrong">
+            <i class="far fa-times-circle"></i>
+            </div>
+
             <div className="sign-content">
                 <h3 className="cont">Sign in to continue</h3>
                 <p>Sign in or register with your e-mail address</p>
