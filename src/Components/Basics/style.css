@@ -186,3 +186,10 @@ a{
 .instruments{
     margin-left:107px;
 }
+
+/* background css starts */
+.image{
+    margin-top:40px;
+    height:300px;
+    width:100%;
+}

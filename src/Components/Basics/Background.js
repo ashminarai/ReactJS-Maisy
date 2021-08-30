@@ -3,9 +3,12 @@ import React from 'react'
 const background = () => {
     return (
         <>
-            <img src="background.jpg"></img>
+        <div className="background">
+            <img src="bg.png" className="image"></img>
+        </div>
         </>
     )
 }
 
 export default background;
+
