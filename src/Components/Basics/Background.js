@@ -4,7 +4,7 @@ const background = () => {
     return (
         <>
         <div className="background">
-            <img src="bg.png" className="image"></img>
+            <img src="back.jpg" className="image"></img>
         </div>
         </>
     )
