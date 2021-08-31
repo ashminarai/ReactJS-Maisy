@@ -3,6 +3,7 @@ import Navbar from "./Components/Basics/Navbar";
 import Nav from "./Components/Basics/Nav";
 import Background from "./Components/Basics/Background";
 import Info from "./Components/Basics/Info";
+import Items from "./Components/Basics/Items";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     <Nav/>
     <Background/>
     <Info/>
+    <Items/>
     </>
   );
 }

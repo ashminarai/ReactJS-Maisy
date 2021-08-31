@@ -33,7 +33,7 @@ html,body{
     font-weight:500;
 }
 .signin{
-    margin-left:30px;
+    margin-left:45px;
     text-decoration: none;
     font-size:18px;
     color:rgb(72, 71, 71);
@@ -42,7 +42,7 @@ html,body{
     color:rgb(155, 148, 148);
 }
 .fa-shopping-cart{
-    margin-left:40px;
+    margin-left:48px;
     font-size:20px;
     font-weight:500;
 }
@@ -235,4 +235,26 @@ a{
 .ctext{
     margin:10px;
     margin-left:910px;
+}
+
+/* Items css starts */
+.item{
+    margin:30px;
+    margin-left:30px;
+}
+.it{
+    font-size:20px;
+}
+.itext{
+    margin-top:5px;
+    margin-left:30px;
+    width:350px;
+    height:50px;
+    border-color:black;
+    border-radius:40px;
+    padding-left:30px;
+
+}
+.items-content{
+    display:flex;
 }
