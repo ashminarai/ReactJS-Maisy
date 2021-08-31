@@ -3,7 +3,7 @@
     padding:0;
 }
 html,body{
-    
+    background-color: rgb(255, 255, 255);
 }
 /* Navigation-content CSS starts */
 .navigation-content{
@@ -246,6 +246,7 @@ a{
 }
 .it{
     font-size:20px;
+    margin-top:15px;
 }
 .itext{
     margin-top:5px;
@@ -261,17 +262,44 @@ a{
     display:flex;
 }
 .dropcontent{
-    background-color:grey;
+    background-color:rgb(252, 241, 241);
     margin-left:40px;
     height:50px;
     width:200px;
     text-align:center;
     padding-top:10px;
     border-radius:40px;
+    cursor:pointer;
+}
+.drop:hover, .lcontent{
+    opacity:1;
+    visibility: visible;
 }
 .fa-caret-down{
     padding-left:20px;
 }
 .dropdown{
     display:flex;
+}
+.dropcontent{
+    margin-left:1150px;
+}
+.searchitem{
+    background-color: rgb(43, 43, 43);
+    height:60px;
+    width:320px;
+    margin-left:40px;
+    border-radius:40px;
+}
+.itemscon{
+    margin-left:0px;
+    height:60px;
+    padding-left:55px;
+    border-radius:40px;
+    outline:none;
+    border-color:black;
+}
+.searchcontent .fas{
+    color:white;
+    padding-left:10px;
 }
