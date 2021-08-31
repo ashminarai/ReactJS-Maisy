@@ -287,8 +287,8 @@ a{
 .searchitem{
     background-color: rgb(43, 43, 43);
     height:60px;
-    width:320px;
-    margin-left:40px;
+    width:270px;
+    margin-left:20px;
     border-radius:40px;
 }
 .itemscon{
@@ -298,8 +298,45 @@ a{
     border-radius:40px;
     outline:none;
     border-color:black;
+    width:220px;
 }
 .searchcontent .fas{
     color:white;
-    padding-left:10px;
+    padding-left:17x;
 }
+.itemlist-content{
+    margin-top:30px;
+    margin-left:30px;
+    font-size:20px;
+}
+.all:hover{
+    color:rgb(164, 160, 160);
+}
+.on{
+    margin-top:10px;
+}
+.wall{
+     margin-top:10px;
+}
+.app{
+    margin-top:10px;
+}
+.digi{
+    margin-top:10px;
+}
+.shopcontent{
+    height:50px;
+    background-color: grey;
+    width:250px;
+    margin-left:23px;
+    margin-top:20px;
+    padding-top:13px;
+    padding-left:42px;
+    border-radius: 5px;
+    color:black;
+    background-color: white;
+    border:2px solid rgb(218, 218, 218);
+    cursor:pointer;
+}
+
+
