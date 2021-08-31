@@ -37,12 +37,13 @@ html,body{
     text-decoration: none;
     font-size:18px;
     color:rgb(72, 71, 71);
+    cursor:pointer;
 }
 .signin:hover{
     color:rgb(155, 148, 148);
 }
 .fa-shopping-cart{
-    margin-left:48px;
+    margin-left:52px;
     font-size:20px;
     font-weight:500;
 }
@@ -234,13 +235,14 @@ a{
 }
 .ctext{
     margin:10px;
-    margin-left:910px;
+    margin-left:895px;
 }
 
 /* Items css starts */
 .item{
     margin:30px;
     margin-left:30px;
+    display:flex;
 }
 .it{
     font-size:20px;
@@ -256,5 +258,20 @@ a{
 
 }
 .items-content{
+    display:flex;
+}
+.dropcontent{
+    background-color:grey;
+    margin-left:40px;
+    height:50px;
+    width:200px;
+    text-align:center;
+    padding-top:10px;
+    border-radius:40px;
+}
+.fa-caret-down{
+    padding-left:20px;
+}
+.dropdown{
     display:flex;
 }
