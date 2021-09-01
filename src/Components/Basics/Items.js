@@ -27,9 +27,13 @@ const Items = () => {
 
       <div className="itemlist-content">
         <div  className="all">
-          <a href="#">All</a>
+          <span><a href="#">All<br/>
+          <a href="#">Sale</a><br></br>
+          <a href="#">Vintage</a><br></br>
+          <a href="#">Arts</a><br></br>
+          <a href="#">Deskplanner</a></a></span>
         </div>
-        <div className="on">
+        {/* <div className="on">
           <a href="#">On sale</a>
         </div>
         <div className="wall">
@@ -40,6 +44,9 @@ const Items = () => {
         </div>
         <div className="digi">
           <a href="#">Digital Planners</a>
+        </div> */}
+        <div className="itempictures">
+          <img src="desk.jpg" className="desk"></img>
         </div>
       </div>
 
