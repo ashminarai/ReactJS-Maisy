@@ -26,35 +26,22 @@ const Items = () => {
       </div>
 
       <div className="itemlist-content">
-        <div  className="all">
-          <span><a href="#">All<br/>
-          <a href="#">Sale</a><br></br>
-          <a href="#">Vintage</a><br></br>
-          <a href="#">Arts</a><br></br>
-          <a href="#">Deskplanner</a></a></span>
+        <div className="all">
+          <span>
+            <a href="#">
+              All
+              <br />
+              <a href="#">Sale</a>
+              <br></br>
+              <a href="#">Vintage</a>
+              <br></br>
+              <a href="#">Arts</a>
+              <br></br>
+              <a href="#">Deskplanner</a>
+            </a>
+          </span>
         </div>
-        {/* <div className="on">
-          <a href="#">On sale</a>
-        </div>
-        <div className="wall">
-          <a href="#">Wallpapers</a>
-        </div>
-        <div className="app">
-          <a href="#">App icon packs</a>
-        </div>
-        <div className="digi">
-          <a href="#">Digital Planners</a>
-        </div> */}
-        <div className="itempictures">
-          <img src="desk.jpg" className="desk"></img>
-        </div>
-      </div>
-
-      <div className="contactshop-content">
-        <div className="shopcontent">
-          <span a href="#" className="shoptext"><i className="fas fa-envelope"></i>Contact shop owner</span>
-        </div>
-
+        
       </div>
     </>
   );
