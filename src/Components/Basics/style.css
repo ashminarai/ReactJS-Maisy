@@ -4,6 +4,7 @@
 }
 html,body{
     background-color: rgb(255, 255, 255);
+    behavior: smooth;
 }
 /* Navigation-content CSS starts */
 .navigation-content{
@@ -342,12 +343,90 @@ a{
     border:2px solid rgb(218, 218, 218);
     cursor:pointer;
 }
+.images-content{
+    cursor:pointer;
+}
 .imgcontent{
     display:flex;
-    margin-left:300px;
+    margin-left:50px;
 }
 .desk{
     height:250px;
     width:auto;
 }
+.images{
+    margin-left:20px;
+}
+.fa-heart{
+    font-weight:200;
+    margin-left:200px;
+    cursor:pointer;
+}
+.fa-heart:hover{
+    color:rgb(193, 172, 172);
+}
+.heart{
+    color:rgb(74, 67, 67);
+    margin-top:5px;
+    font-size:15px;
+    cursor:pointer;
+}
+.owner{
+    height:50px;
+    width:250px;
+    background-color: white;
+    margin-top:70px;
+    text-align:center;
+    padding-top:15px;
+    border:1.5px solid rgb(116, 113, 113);
+    border-radius:5px;
+}
+.second-content{
+    margin-top:10px;
+    transition: 0.3s;
+}
+.simg-content{
+    display:flex;
+}
+.ipad{
+    height:250px;
+    width:auto;
+}
+.simages{
+    margin-left:70px;
+}
+.s-images{
+    margin-left:20px;
+}
+.hritem{
+    opacity:0.2;
+    margin-top:40px;
+}
+.admirer{
+    margin-left:30px;
+}
+.admirer h6{
+    font-weight: 400;
+}
+.hr{
+    width:250px;
+    opacity:0.3;
+    margin-top:250px;
+}
+.report{
+    margin-left:30px;
+    margin-top:10px;
+}
+.report h6{
+    font-weight:400;
+}
+.reporthr{
+    max-width:1380px;
+    margin-left:30px;
+}
+.txt h6{
+    margin-top:7px;
+    font-weight:400;
+}
+
 
