@@ -41,7 +41,36 @@ const Items = () => {
             </a>
           </span>
         </div>
-        
+
+        <div className="images-content">
+          <div className="imgcontent">
+            <div className="images">
+              <img src="desk.jpg" className="desk"></img>
+              <div className="heart">
+                <span>$100</span>
+                <i className = "fas fa-heart"></i>
+              </div>
+            </div>
+            
+            <div className="images">
+              <img src="desk.jpg" className="desk"></img>
+              <div className="heart">
+                <span>$100</span>
+                <i className = "fas fa-heart"></i>
+              </div>
+            </div>
+
+            <div className="images">
+              <img src="desk.jpg" className="desk"></img>
+              <div className="heart">
+                <span>$100</span>
+                <i className = "fas fa-heart"></i>
+              </div>
+            </div>
+
+
+          </div>
+        </div>  
       </div>
     </>
   );

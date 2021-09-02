@@ -342,38 +342,12 @@ a{
     border:2px solid rgb(218, 218, 218);
     cursor:pointer;
 }
-.desk{
-    margin-left:30px;
-}
-.itempictures{
-    margin-left:300px;
-    border:1px solid rgb(111, 111, 111);
-    width:290px;
-    cursor:pointer;
-    transition: 0.3s;
-}
-.ipic{
+.imgcontent{
     display:flex;
-}
-.itempictures:hover, .fa-heart{
-    opacity:1;
-    visibility: visible;
+    margin-left:300px;
 }
 .desk{
-    height:230px;
+    height:250px;
     width:auto;
 }
-.desk:hover, .fa-heart{
-    opacity:1;
-    visibility:visile;
-}
-.fa-heart{
-    font-weight:100;
-    margin-left:240px;
-    opacity:0.3;
-    cursor:pointer;
-}
-.fa-heart:hover{
-    opacity:1;
 
-}
