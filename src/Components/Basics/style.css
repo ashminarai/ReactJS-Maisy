@@ -430,3 +430,14 @@ a{
 }
 
 
+/* Review CSS starts */
+
+.review{
+    display:flex;
+}
+.ddown{
+    height:60px;
+    width:300px;
+    background-color:red;
+}
+
