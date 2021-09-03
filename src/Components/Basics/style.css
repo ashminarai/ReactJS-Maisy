@@ -434,7 +434,56 @@ a{
 
 .review-content{
     display:flex;
-    margin-left:30px;
 
+}
+.review-list{
+    margin-left:30px;
+}
+.down{
+    overflow:hidden;
+}
+.rdown{
+    background-color:rgb(218, 193, 193);
+    height:60px;
+    width:250px;
+    text-align:center;
+    padding-top:20px;
+    border-radius:40px;
+    font-weight:300;
+    margin-left:400px;
+}
+.rcaret{
+    margin-left:40px;
+}
+.list{
+    margin-left:400px;
+    margin-top:5px;
+    height:100px;
+    width:250px;
+    text-align: center;
+    padding-top:8px;
+    background-color:rgb(218, 193, 193);
+    border-radius:20px;
+    opacity:0;
+    visibility:hidden;
+}
+.review{
+    margin-top:20px;
+}
+.review h3{
+    font-size:20px;
+    font-weight:600;
+}
+.rfeedback{
+    margin-left:500px;
+    margin-top:20px;
+}
+.rfeedback h3{
+    font-size:20px;
+    font-weight:600;
+}
+.review-content:hover .list{
+    opacity:1;
+    visibility:visible;
 }
 
