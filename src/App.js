@@ -5,6 +5,8 @@ import Background from "./Components/Basics/Background";
 import Info from "./Components/Basics/Info";
 import Items from "./Components/Basics/Items";
 import Review from "./Components/Basics/Review";
+import Policy from "./Components/Basics/Policy";
+import Footer from "./Components/Basics/Footer";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
     <Info/>
     <Items/>
     <Review/>
+    <Policy/>
+    <Footer/>
     </>
   );
 }
