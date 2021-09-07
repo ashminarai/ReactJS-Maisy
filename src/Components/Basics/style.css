@@ -486,7 +486,56 @@ a{
     opacity:1;
     visibility:visible;
 }
+
+/* policy css starts */
 .policy-content{
     display:flex;
+    margin-left:20px;
+}
+.p1{
+    margin-left:300px;
+}
+.p1 h5{
+    font-size:15px;
+    font-weight:250;
+}
+.content h5{
+    font-size:17px;
+}
+.policyhr{
+    width:1000px;
+}
+.policy-content1{
+    margin-top:20px;
+    display:flex;
+    margin-left:20px;
+}
+.content1 h5{
+    font-size:17px;
+}
+.p2 h4{
+    font-size:15px;
+    font-weight:500;
+}
+.p2{
+    margin-left:320px;
+}
+.p2 h6{
+    font-weight:300;
+}
+.policy-content3{
+    display:flex;
+}
+.content2{
+    margin-left:20px;
+}
+.p3{
+    margin-left:230px;
+}
+.p3 h5{
+    font-size:17px;
+}
+.p3 h6{
+    font-weight:300;
 }
 
