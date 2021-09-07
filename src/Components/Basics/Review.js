@@ -1,4 +1,5 @@
 import React from 'react'
+import "./style.css"
 
 const Review = () => {
     return (
@@ -30,7 +31,6 @@ const Review = () => {
                         <a href="#">Latest</a><br/>
                         <hr className="lhr"/>
                         <a href="#">Recent</a>
-                        <hr className="lhr"/>
                     </div>
                 </div>
             </div>

@@ -486,4 +486,7 @@ a{
     opacity:1;
     visibility:visible;
 }
+.policy-content{
+    display:flex;
+}
 
