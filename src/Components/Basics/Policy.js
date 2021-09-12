@@ -34,8 +34,21 @@ const Policy = () => {
          <div className="p3">
              <h5>Files Download</h5><br/>
              <h6>Your files will be available to download once payment is confirmed. Here's how.</h6>
+             <hr className="policyhr"></hr>
          </div>
       </div>
+
+      <div className="policy-content4">
+         <div className="content3">
+             <h5>Payment Options</h5>
+         </div>
+         <div className="p4">
+             <h5>Security options</h5><br/>
+             <h6>Your files will be available to download once payment is confirmed. Here's how.</h6>
+         </div>
+      </div>
+
+      
     </>
   );
 };

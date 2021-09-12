@@ -529,13 +529,34 @@ a{
 .content2{
     margin-left:20px;
 }
+.content2 h5{
+    font-size:17px;
+}
 .p3{
-    margin-left:230px;
+    margin-left:250px;
 }
 .p3 h5{
     font-size:17px;
 }
 .p3 h6{
+    font-weight:300;
+}
+.policy-content4{
+    display:flex;
+}
+.content3{
+    margin-left:20px;
+}
+.p4{
+    margin-left:260px;
+}
+.content3 h5{
+    font-size:17px;
+}
+.p4 h5{
+    font-size:17px;
+}
+.p4 h6{
     font-weight:300;
 }
 
