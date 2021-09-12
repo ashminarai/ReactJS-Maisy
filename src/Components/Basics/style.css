@@ -559,4 +559,16 @@ a{
 .p4 h6{
     font-weight:300;
 }
+.esewa{
+    height:30px;
+    width:auto;
+}
+.policyimage-content{
+    display:flex;
+}
+.cod{
+    margin-left:20px;
+    height:40px;
+    width:auto;
+}
 

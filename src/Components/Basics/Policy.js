@@ -44,7 +44,16 @@ const Policy = () => {
          </div>
          <div className="p4">
              <h5>Security options</h5><br/>
-             <h6>Your files will be available to download once payment is confirmed. Here's how.</h6>
+             <div className="policyimage-content">
+               <div className="policyimage">
+                 <img src="esewa.png" className="esewa"></img>
+               </div>
+               <div className="policyimage">
+                 <img src="cod.png" className="cod"></img>
+               </div>
+
+              
+             </div>
          </div>
       </div>
 
