@@ -37,7 +37,18 @@ const Footer = () => {
                             <img src="y.png" className="flogo"></img>
                         </div>
                         <div className="logo-content">
-                           <h6>Download Yamphu Blog</h6>
+                           <h6>Download Yamphu App</h6>
+                        </div>
+                    </div>
+                    <div className="footerimage-content">
+                        <div className="footer-icon">
+                           <i className="fab fa-instagram"></i>
+                        </div>
+                        <div className="footer-icon1">
+                           <i className="fab fa-facebook-square"></i>
+                        </div>
+                        <div className="footer-icon1">
+                        <i class="fab fa-pinterest-square"></i>
                         </div>
                     </div>
                 </div>
