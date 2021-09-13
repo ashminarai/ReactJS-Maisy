@@ -572,3 +572,13 @@ a{
     width:auto;
 }
 
+/* Footer css starts */
+
+.footer{
+    display:flex;
+    margin-left:20px;
+}
+.f2{
+    margin-left:50px;
+}
+

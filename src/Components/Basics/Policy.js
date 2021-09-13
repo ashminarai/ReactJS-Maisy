@@ -48,7 +48,7 @@ const Policy = () => {
                <div className="policyimage">
                  <img src="esewa.png" className="esewa"></img>
                </div>
-               <div className="policyimage">
+               <div className="policyimage1">
                  <img src="cod.png" className="cod"></img>
                </div>
 
