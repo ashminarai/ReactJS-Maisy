@@ -6,16 +6,40 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer">
                 <div className="f1">
-                    <h5>Shop</h5>
+                    <h5>Shop</h5><br/>
+                    <h6>Gift Cards</h6>
+                    <h6>Yamphu Blogs</h6>
                 </div>
-                <div className="f1">
-                    <h5>Sell</h5>
+                <div className="f2">
+                    <h5>Sell</h5><br/>
+                    <h6>Sell on Yamphu</h6>
+                    <h6>Teams</h6>
+                    <h6>Forumss</h6>
+                    <h6>Affiliates</h6>
                 </div>
-                <div className="f1">
-                    <h5>About</h5>
+                <div className="f2">
+                    <h5>About</h5><br/>
+                    <h6>Yamphu, Inc</h6>
+                    <h6>Policies</h6>
+                    <h6>Investors</h6>
+                    <h6>Carrers</h6>
+                    <h6>Press</h6>
+                    <h6>Impact</h6>
+                    <h6>Legal imprint</h6>
                 </div>
-                <div className="f1">
-                    <h5>Help</h5>
+                <div className="f2">
+                    <h5>Help</h5><br/>
+                    <h6>Help center</h6>
+                    <h6>Trust and Safety</h6>
+                    <h6>Privacy setting</h6>
+                    <div className="footer-logo">
+                        <div className="logo-content">
+                            <img src="y.png" className="flogo"></img>
+                        </div>
+                        <div className="logo-content">
+                           <h6>Download Yamphu Blog</h6>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

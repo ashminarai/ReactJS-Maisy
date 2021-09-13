@@ -578,7 +578,43 @@ a{
     display:flex;
     margin-left:20px;
 }
-.f2{
-    margin-left:50px;
+.footer-content{
+    background-color:rgba(5, 49, 103, 0.94);
+    height:350px;
+    margin-top:30px;
 }
+.f1{
+    margin-top:20px;
+    color:white;
+}
+.f1 h5{
+    font-size:17px;
+}
+.f1 h6{
+    font-size:14px;
+    font-weight:300;
+}
+.f2{
+    margin-left:250px;
+    margin-top:20px;
+    color:white;
+}
+.f2 h5{
+    font-size:17px;
+}
+.f2 h6{
+    font-size:14px;
+    font-weight:300;
+}
+.flogo{
+    height:20px;
+    width:auto;
+}
+.footer-logo{
+    display:flex;
+    background-color:red;
+    height:40px;
+    width:200px;
+}
+
 
